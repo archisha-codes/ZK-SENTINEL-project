@@ -9,7 +9,12 @@ import { FloatingNav } from './FloatingNav';
 import { PrivacyStatus } from './PrivacyStatus';
 import { toast } from 'sonner';
 
-export const Dashboard = () => {
+interface DashboardProps {
+  onStartOnboarding?: () => void;
+  onStartUpload?: () => void;
+}
+
+export const Dashboard = ({ onStartOnboarding, onStartUpload }: DashboardProps) => {
   const [isAnalyzing, setIsAnalyzing] = useState(false);
   const [isVerified, setIsVerified] = useState(false);
   const [userName] = useState('Traveler');

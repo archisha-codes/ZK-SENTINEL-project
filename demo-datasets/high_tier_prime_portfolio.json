@@ -1,0 +1,23 @@
+{
+  "user_profile": {
+    "account_type": "Prime Financial Portfolio",
+    "currency": "USD",
+    "period": "Q1 2024"
+  },
+  "transactions": [
+    { "date": "2024-01-01", "description": "Executive Compensation Direct Deposit", "amount": 18500.00, "type": "income" },
+    { "date": "2024-01-04", "description": "Luxury Condominium Lease", "amount": -3500.00, "type": "expense" },
+    { "date": "2024-01-08", "description": "Quarterly Equity Dividend Payout", "amount": 4200.00, "type": "income" },
+    { "date": "2024-01-12", "description": "Whole Foods Market", "amount": -480.00, "type": "expense" },
+    { "date": "2024-01-18", "description": "Vanguard Index Fund Investment", "amount": -5000.00, "type": "expense" },
+    { "date": "2024-01-25", "description": "Advisory Board Retainer Fee", "amount": 6500.00, "type": "income" },
+    { "date": "2024-02-01", "description": "Executive Compensation Direct Deposit", "amount": 18500.00, "type": "income" },
+    { "date": "2024-02-04", "description": "Luxury Condominium Lease", "amount": -3500.00, "type": "expense" },
+    { "date": "2024-02-14", "description": "International Travel & Resort", "amount": -2800.00, "type": "expense" },
+    { "date": "2024-02-20", "description": "Private Client Consulting", "amount": 8800.00, "type": "income" },
+    { "date": "2024-03-01", "description": "Executive Compensation Direct Deposit", "amount": 18500.00, "type": "income" },
+    { "date": "2024-03-04", "description": "Luxury Condominium Lease", "amount": -3500.00, "type": "expense" },
+    { "date": "2024-03-15", "description": "Tech Patent Royalty Revenue", "amount": 9400.00, "type": "income" },
+    { "date": "2024-03-25", "description": "Annual Performance Bonus", "amount": 12500.00, "type": "income" }
+  ]
+}

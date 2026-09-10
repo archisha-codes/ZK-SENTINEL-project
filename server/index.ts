@@ -38,6 +38,18 @@ const upload = multer({
   },
 });
 
+// Root Welcome Route
+app.get('/', (_req: Request, res: Response) => {
+  res.json({
+    status: 'online',
+    service: 'ZK-Sentinel Core API',
+    version: '1.0.0',
+    network: 'Polygon Amoy Testnet (Chain ID 80002)',
+    health: '/api/health',
+    repository: 'https://github.com/archisha-codes/ZK-SENTINEL-project',
+  });
+});
+
 // Health Check
 app.get('/api/health', (_req: Request, res: Response) => {
   res.json({

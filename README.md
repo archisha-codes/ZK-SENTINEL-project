@@ -1,6 +1,6 @@
 # 🛡️ ZK-Sentinel
 
-### Verifiable Financial Identity for the Next Billion Users — Powered by Agentic AI & Zero-Knowledge Proofs
+### Verifiable Financial Identity for the Next Billion Users - Powered by Agentic AI & Zero-Knowledge Proofs
 
 [![Live Web Application](https://img.shields.io/badge/Frontend-Live%20on%20Vercel-00FF94?style=for-the-badge&logo=vercel&logoColor=black)](https://zk-sentinel-project.vercel.app/)
 [![Backend API](https://img.shields.io/badge/Backend%20API-Online%20on%20Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://zk-sentinel-project.onrender.com)

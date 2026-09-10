@@ -24,7 +24,7 @@
 
 ---
 
-## 💡 The Solution — ZK-Sentinel
+## 💡 The Solution - ZK-Sentinel
 
 **ZK-Sentinel** is a Zero-Knowledge Financial Passport that transforms messy bank statements, CSV transaction records, and voice onboarding inputs into cryptographically verifiable credit certificates.
 
